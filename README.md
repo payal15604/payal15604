@@ -1,18 +1,12 @@
 # Hi there, I'm Payal 👋
 
-![Profile views](https://gpvc.arturio.dev/payal15604)
-[![GitHub followers](https://img.shields.io/github/followers/payal15604?label=Follow&style=social)](https://github.com/payal15604?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/[your-twitter-handle]?style=social)](https://twitter.com/[your-twitter-handle])
-
 ## 🚀 About Me
 
-I'm a passionate coder with a strong interest in machine learning and backend development. I love to learn new technologies and apply them to solve real-world problems.
-
 - 🌱 I’m currently learning **Backend Development**
-- 🤖 I have a deep interest in **Machine Learning**
-- 💬 Ask me about **Python, Machine Learning, and Backend Development**
-- 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: I enjoy working on open-source projects and collaborating with other developers.
+- 🤖 I find **Deep Learning** fascinating.
+- 💬 I enjoy working with data.
+- 📫 How to reach me: [ppayal_be22@thapar.edu]
+- ⚡ I enjoy working on open-source projects and collaborating with other developers.
 
 ## 🛠️ Languages and Tools
 
