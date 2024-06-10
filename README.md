@@ -35,39 +35,22 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorboard&logoColor=white)
 
-
-
-
-
 ## 📈 GitHub Stats
 
 ![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=payal15604&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payal15604&layout=compact&theme=radical)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post title](https://yourbloglink.com)
-- [Another blog post title](https://yourbloglink.com)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-username]/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter-handle])
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@[your-medium-username])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/payal-pandey-05374a251)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:payal61503@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/payal15604)
 
-## 📚 Latest Projects
-
-- [Project 1](https://github.com/payal15604/project1) - Brief description of project 1.
-- [Project 2](https://github.com/payal15604/project2) - Brief description of project 2.
-- [Project 3](https://github.com/payal15604/project3) - Brief description of project 3.
 
 ## 🎮 Hobbies and Interests
 
-- Coding 💻
-- Machine Learning 🤖
-- Reading 📖
+- Backend 💻
+- Machine Learning/Deep Learning 🤖
+- Data 📖
 - Music 🎵
 - Traveling ✈️
